@@ -1,11 +1,3 @@
-# login name - fliu988
-# This program is my own unaided work, and was not copied,
-# (except some parts as allowed to base my work on that distributed
-# by the lecturer)
-# nor written in collaboration with any other person.
-# name: FENG LIU
-# UPI: 243390391
-
 #!/usr/bin/env python3
 import os
 import drive
